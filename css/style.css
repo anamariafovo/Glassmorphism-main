@@ -1,6 +1,6 @@
 /*================================ CSS VARIABLES ================================*/
 :root {
-  --backgr-img: url(/img/backgr_img-9.jpg);
+  --backgr-img: url(../img/backgr_img-9.jpg);
   --text-color: rgba(0, 0, 0, 0.76);
   --text-color-2: rgba(247, 236, 242, 0.76);
   --box-shadow: 0 5px 15px rgb(0, 0, 0, 0.5);

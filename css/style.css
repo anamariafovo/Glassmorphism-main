@@ -260,7 +260,7 @@ section {
 /* For Large Devices */
 @media screen and (min-width: 1024px) {
   .welcome__box {
-    bottom: 0rem;
+    bottom: -5rem;
     width: 450px;
     height: 250px;
   }

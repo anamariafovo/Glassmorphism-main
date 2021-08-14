@@ -1,2 +1,2 @@
 # Glassmorphism-main
-Traveling website start page UI with glassmorphism effect using HTML and CSS.
+Responsive traveling website start page UI with glassmorphism effect using HTML and CSS.
